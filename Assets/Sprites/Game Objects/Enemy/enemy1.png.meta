@@ -1,0 +1,128 @@
+fileFormatVersion: 2
+guid: 98b3d53403cf6e54b977ce3c86aee5c8
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: missile
+    21300002: enemy1_head
+    21300004: enemy1_gun
+    21300006: enemy1_body
+    21300008: enemy1_frontArm
+    21300010: enemy1_leftBoot
+    21300012: enemy1_rightBoot
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: missile
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 392
+        width: 50
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy1_head
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 392
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy1_gun
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 272
+        width: 160
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy1_body
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 248
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy1_frontArm
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 256
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy1_leftBoot
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 170
+        width: 52
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy1_rightBoot
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 170
+        width: 52
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
